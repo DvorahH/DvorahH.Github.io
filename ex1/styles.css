@@ -1,0 +1,23 @@
+
+.img1{
+    border: 2cm;
+border:18px solid springgreen;
+}
+.img2{
+    border: 2cm;
+    border:18px solid springgreen;
+    }
+    .img3{
+        border: 2cm;
+        border:18px solid springgreen;
+        }
+table{
+     border-collapse:collapse ;
+  
+}
+td{
+    border: 1px solid black;
+}
+body{
+    background-color:whitesmoke ;
+}
