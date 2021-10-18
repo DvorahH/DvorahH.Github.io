@@ -1,0 +1,50 @@
+
+.img1{
+    border: 2cm;
+border:18px solid springgreen;
+}
+.img2{
+    border: 2cm;
+    border:18px solid springgreen;
+    }
+    .img3{
+        border: 2cm;
+        border:18px solid springgreen;
+        }
+table{
+     border-collapse:collapse ;
+  
+}
+td{
+    border: 1px solid black;
+}
+body{
+    background-color:whitesmoke ;
+}
+#logo{
+    float: left;
+}
+h1{
+    display: inline-block;
+}
+
+#linkes{
+
+    position: fixed;
+
+}
+#all{
+    position: absolute;
+    right: 150px;
+}
+#v1{
+    
+    border: 2cm;
+    border:18px ridge rgb(225, 0, 255);
+}
+#v2{  border: 2cm;
+    border:18px ridge rgb(225, 0, 255);
+}
+#v3{    border: 2cm;
+    border:18px ridge rgb(225, 0, 255);
+}
